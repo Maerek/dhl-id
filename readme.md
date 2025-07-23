@@ -1,2 +1,2 @@
 
-[Install](https://raw.githubusercontent.com/Maerek/dhl-id/main/dhl-id.user.js)
+[Install](https://raw.githubusercontent.com/Maerek/dhl-id/main/dhl_id.user.js)
